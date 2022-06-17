@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Howdy folks! 👋, I'm Keyur Jivani</h1>
-<h3 align="center">ncdsjksncjksc</h3>
+<h3 align="center">A good coder and web developer</h3>
 
 
 <h2>🙋‍♂️ About Me</h2>
