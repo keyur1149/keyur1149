@@ -1,5 +1,6 @@
-
-<img src="https://tndigitalseva.in/assets/web/img/login-page.gif">
+<div style="display:flex;justify-content: center;align-item:center;">
+<img src="https://tndigitalseva.in/assets/web/img/login-page.gif" width="475px" height="400px" >
+</div>
 - 👋 Hi, I’m @keyur1149
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning c++,css,php.
