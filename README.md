@@ -9,8 +9,6 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **NGO website.**
-
 - 🌱 I’m currently learning **Android development and Web development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/keyur1149](https://github.com/keyur1149)
